@@ -1,6 +1,6 @@
 Hello, my name is Kyle Harms.
 I am a Software Engineering major at Cal Poly San Luis Obispo, and I will be graduating Spring 2021.
-Currently, I am seeking employment in backend software development or full stack development.
+I will be starting as an Associate Software Engineer at Veeva Systems in June.
 I have experience with Java, JavaScript, C/C++, C#, and Python.
 
 Relevant Cal Poly Course Work
